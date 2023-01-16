@@ -1,2 +1,2 @@
 # fundrise
-Crowd funding website built on readt
+Crowd funding website built on react
